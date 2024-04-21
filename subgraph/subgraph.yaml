@@ -4,7 +4,7 @@ schema:
 dataSources:
   - kind: substreams
     name: Ordinals
-    network: bitcoin
+    network: btc
     source:
       package:
         moduleName: map_ordinals
